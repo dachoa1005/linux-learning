@@ -1,0 +1,9 @@
+ABCDE
+name1
+ABDEe
+name2
+ACBDA
+name3
+BACDE
+name4
+ABCDE
