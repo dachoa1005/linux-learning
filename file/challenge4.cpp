@@ -24,7 +24,7 @@ int main()
         getline(in_file, line);
         if (line == "" || line == " ")
         {
-            out_file << endl;
+            // out_file << endl;
         }
         else
         {

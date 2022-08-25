@@ -1,149 +1,82 @@
 1   Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and bucklers
-
 2   SAMPSON
-
 3   Gregory, o' my word, we'll not carry coals.
-
 4   GREGORY
-
 5   No, for then we should be colliers.
-
 6   SAMPSON
-
 7   I mean, an we be in choler, we'll draw.
-
 8   GREGORY
-
 9   Ay, while you live, draw your neck out o' the collar.
-
 10   SAMPSON
-
 11   I strike quickly, being moved.
-
 12   GREGORY
-
 13   But thou art not quickly moved to strike.
 14   SAMPSON
-
 15   A dog of the house of Montague moves me.
-
 16   GREGORY
-
 17   To move is to stir; and to be valiant is to stand:
-
 18   therefore, if thou art moved, thou runn'st away.
 19   SAMPSON
-
 20   A dog of that house shall move me to stand: I will
-
 21   take the wall of any man or maid of Montague's.
-
 22   GREGORY
-
 23   That shows thee a weak slave; for the weakest goes
 24   to the wall.
-
 25   SAMPSON
-
 26   True; and therefore women, being the weaker vessels,
-
 27   are ever thrust to the wall: therefore I will push
 28   Montague's men from the wall, and thrust his maids
-
 29   to the wall.
-
 30   GREGORY
-
 31   The quarrel is between our masters and us their men.
 32   SAMPSON
-
 33   'Tis all one, I will show myself a tyrant: when I
-
 34   have fought with the men, I will be cruel with the
-
 35   maids, and cut off their heads.
-
 36   GREGORY
-
 37   The heads of the maids?
 38   SAMPSON
-
 39   Ay, the heads of the maids, or their maidenheads;
-
 40   take it in what sense thou wilt.
-
 41   GREGORY
 42   They must take it in sense that feel it.
-
 43   SAMPSON
-
 44   Me they shall feel while I am able to stand: and
-
 45   'tis known I am a pretty piece of flesh.
-
 46   GREGORY
 47   'Tis well thou art not fish; if thou hadst, thou
-
 48   hadst been poor John. Draw thy tool! here comes
-
 49   two of the house of the Montagues.
-
 50   SAMPSON
-
 51   My naked weapon is out: quarrel, I will back thee.
-
 52   GREGORY
 53   How! turn thy back and run?
-
 54   SAMPSON
-
 55   Fear me not.
-
 56   GREGORY
-
 57   No, marry; I fear thee!
 58   SAMPSON
-
 59   Let us take the law of our sides; let them begin.
-
 60   GREGORY
-
 61   I will frown as I pass by, and let them take it as
-
 62   they list.
 63   SAMPSON
-
 64   Nay, as they dare. I will bite my thumb at them;
-
 65   which is a disgrace to them, if they bear it.
-
 66   Enter ABRAHAM and BALTHASAR
-
-
 67   ABRAHAM
-
 68   Do you bite your thumb at us, sir?
 69   SAMPSON
-
 70   I do bite my thumb, sir.
-
 71   ABRAHAM
-
 72   Do you bite your thumb at us, sir?
 73   SAMPSON
-
 74   [Aside to GREGORY] Is the law of our side, if I say
-
 75   ay?
-
 76   GREGORY
 77   No.
-
-
 78   SAMPSON
 79   No, sir, I do not bite my thumb at you, sir, but I
-
-
 80   bite my thumb, sir.
 81   GREGORY
 82   Do you quarrel, sir?
@@ -164,16 +97,12 @@
 97   SAMPSON
 98   Draw, if you be men. Gregory, remember thy swashing blow.
 99   They fight
-
 100   Enter BENVOLIO
-
 101   BENVOLIO
 102   Part, fools!
 103   Put up your swords; you know not what you do.
 104   Beats down their swords
-
 105   Enter TYBALT
-
 106   TYBALT
 107   What, art thou drawn among these heartless hinds?
 108   Turn thee, Benvolio, look upon thy death.
@@ -185,14 +114,11 @@
 114   As I hate hell, all Montagues, and thee:
 115   Have at thee, coward!
 116   They fight
-
 117   Enter, several of both houses, who join the fray; then enter Citizens, with clubs
-
 118   First Citizen
 119   Clubs, bills, and partisans! strike! beat them down!
 120   Down with the Capulets! down with the Montagues!
 121   Enter CAPULET in his gown, and LADY CAPULET
-
 122   CAPULET
 123   What noise is this? Give me my long sword, ho!
 124   LADY CAPULET
@@ -201,13 +127,11 @@
 127   My sword, I say! Old Montague is come,
 128   And flourishes his blade in spite of me.
 129   Enter MONTAGUE and LADY MONTAGUE
-
 130   MONTAGUE
 131   Thou villain Capulet,--Hold me not, let me go.
 132   LADY MONTAGUE
 133   Thou shalt not stir a foot to seek a foe.
 134   Enter PRINCE, with Attendants
-
 135   PRINCE
 136   Rebellious subjects, enemies to peace,
 137   Profaners of this neighbour-stained steel,--
@@ -233,7 +157,6 @@
 157   To old Free-town, our common judgment-place.
 158   Once more, on pain of death, all men depart.
 159   Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO
-
 160   MONTAGUE
 161   Who set this ancient quarrel new abroach?
 162   Speak, nephew, were you by when it began?
@@ -295,7 +218,6 @@
 218   Could we but learn from whence his sorrows grow.
 219   We would as willingly give cure as know.
 220   Enter ROMEO
-
 221   BENVOLIO
 222   See, where he comes: so please you, step aside;
 223   I'll know his grievance, or be much denied.
@@ -303,7 +225,6 @@
 225   I would thou wert so happy by thy stay,
 226   To hear true shrift. Come, madam, let's away.
 227   Exeunt MONTAGUE and LADY MONTAGUE
-
 228   BENVOLIO
 229   Good-morrow, cousin.
 230   ROMEO
