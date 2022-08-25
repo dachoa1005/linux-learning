@@ -1,0 +1,427 @@
+1   Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and bucklers
+
+2   SAMPSON
+
+3   Gregory, o' my word, we'll not carry coals.
+
+4   GREGORY
+
+5   No, for then we should be colliers.
+
+6   SAMPSON
+
+7   I mean, an we be in choler, we'll draw.
+
+8   GREGORY
+
+9   Ay, while you live, draw your neck out o' the collar.
+
+10   SAMPSON
+
+11   I strike quickly, being moved.
+
+12   GREGORY
+
+13   But thou art not quickly moved to strike.
+14   SAMPSON
+
+15   A dog of the house of Montague moves me.
+
+16   GREGORY
+
+17   To move is to stir; and to be valiant is to stand:
+
+18   therefore, if thou art moved, thou runn'st away.
+19   SAMPSON
+
+20   A dog of that house shall move me to stand: I will
+
+21   take the wall of any man or maid of Montague's.
+
+22   GREGORY
+
+23   That shows thee a weak slave; for the weakest goes
+24   to the wall.
+
+25   SAMPSON
+
+26   True; and therefore women, being the weaker vessels,
+
+27   are ever thrust to the wall: therefore I will push
+28   Montague's men from the wall, and thrust his maids
+
+29   to the wall.
+
+30   GREGORY
+
+31   The quarrel is between our masters and us their men.
+32   SAMPSON
+
+33   'Tis all one, I will show myself a tyrant: when I
+
+34   have fought with the men, I will be cruel with the
+
+35   maids, and cut off their heads.
+
+36   GREGORY
+
+37   The heads of the maids?
+38   SAMPSON
+
+39   Ay, the heads of the maids, or their maidenheads;
+
+40   take it in what sense thou wilt.
+
+41   GREGORY
+42   They must take it in sense that feel it.
+
+43   SAMPSON
+
+44   Me they shall feel while I am able to stand: and
+
+45   'tis known I am a pretty piece of flesh.
+
+46   GREGORY
+47   'Tis well thou art not fish; if thou hadst, thou
+
+48   hadst been poor John. Draw thy tool! here comes
+
+49   two of the house of the Montagues.
+
+50   SAMPSON
+
+51   My naked weapon is out: quarrel, I will back thee.
+
+52   GREGORY
+53   How! turn thy back and run?
+
+54   SAMPSON
+
+55   Fear me not.
+
+56   GREGORY
+
+57   No, marry; I fear thee!
+58   SAMPSON
+
+59   Let us take the law of our sides; let them begin.
+
+60   GREGORY
+
+61   I will frown as I pass by, and let them take it as
+
+62   they list.
+63   SAMPSON
+
+64   Nay, as they dare. I will bite my thumb at them;
+
+65   which is a disgrace to them, if they bear it.
+
+66   Enter ABRAHAM and BALTHASAR
+
+
+67   ABRAHAM
+
+68   Do you bite your thumb at us, sir?
+69   SAMPSON
+
+70   I do bite my thumb, sir.
+
+71   ABRAHAM
+
+72   Do you bite your thumb at us, sir?
+73   SAMPSON
+
+74   [Aside to GREGORY] Is the law of our side, if I say
+
+75   ay?
+
+76   GREGORY
+77   No.
+
+
+78   SAMPSON
+79   No, sir, I do not bite my thumb at you, sir, but I
+
+
+80   bite my thumb, sir.
+81   GREGORY
+82   Do you quarrel, sir?
+83   ABRAHAM
+84   Quarrel sir! no, sir.
+85   SAMPSON
+86   If you do, sir, I am for you: I serve as good a man as you.
+87   ABRAHAM
+88   No better.
+89   SAMPSON
+90   Well, sir.
+91   GREGORY
+92   Say 'better:' here comes one of my master's kinsmen.
+93   SAMPSON
+94   Yes, better, sir.
+95   ABRAHAM
+96   You lie.
+97   SAMPSON
+98   Draw, if you be men. Gregory, remember thy swashing blow.
+99   They fight
+
+100   Enter BENVOLIO
+
+101   BENVOLIO
+102   Part, fools!
+103   Put up your swords; you know not what you do.
+104   Beats down their swords
+
+105   Enter TYBALT
+
+106   TYBALT
+107   What, art thou drawn among these heartless hinds?
+108   Turn thee, Benvolio, look upon thy death.
+109   BENVOLIO
+110   I do but keep the peace: put up thy sword,
+111   Or manage it to part these men with me.
+112   TYBALT
+113   What, drawn, and talk of peace! I hate the word,
+114   As I hate hell, all Montagues, and thee:
+115   Have at thee, coward!
+116   They fight
+
+117   Enter, several of both houses, who join the fray; then enter Citizens, with clubs
+
+118   First Citizen
+119   Clubs, bills, and partisans! strike! beat them down!
+120   Down with the Capulets! down with the Montagues!
+121   Enter CAPULET in his gown, and LADY CAPULET
+
+122   CAPULET
+123   What noise is this? Give me my long sword, ho!
+124   LADY CAPULET
+125   A crutch, a crutch! why call you for a sword?
+126   CAPULET
+127   My sword, I say! Old Montague is come,
+128   And flourishes his blade in spite of me.
+129   Enter MONTAGUE and LADY MONTAGUE
+
+130   MONTAGUE
+131   Thou villain Capulet,--Hold me not, let me go.
+132   LADY MONTAGUE
+133   Thou shalt not stir a foot to seek a foe.
+134   Enter PRINCE, with Attendants
+
+135   PRINCE
+136   Rebellious subjects, enemies to peace,
+137   Profaners of this neighbour-stained steel,--
+138   Will they not hear? What, ho! you men, you beasts,
+139   That quench the fire of your pernicious rage
+140   With purple fountains issuing from your veins,
+141   On pain of torture, from those bloody hands
+142   Throw your mistemper'd weapons to the ground,
+143   And hear the sentence of your moved prince.
+144   Three civil brawls, bred of an airy word,
+145   By thee, old Capulet, and Montague,
+146   Have thrice disturb'd the quiet of our streets,
+147   And made Verona's ancient citizens
+148   Cast by their grave beseeming ornaments,
+149   To wield old partisans, in hands as old,
+150   Canker'd with peace, to part your canker'd hate:
+151   If ever you disturb our streets again,
+152   Your lives shall pay the forfeit of the peace.
+153   For this time, all the rest depart away:
+154   You Capulet; shall go along with me:
+155   And, Montague, come you this afternoon,
+156   To know our further pleasure in this case,
+157   To old Free-town, our common judgment-place.
+158   Once more, on pain of death, all men depart.
+159   Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO
+
+160   MONTAGUE
+161   Who set this ancient quarrel new abroach?
+162   Speak, nephew, were you by when it began?
+163   BENVOLIO
+164   Here were the servants of your adversary,
+165   And yours, close fighting ere I did approach:
+166   I drew to part them: in the instant came
+167   The fiery Tybalt, with his sword prepared,
+168   Which, as he breathed defiance to my ears,
+169   He swung about his head and cut the winds,
+170   Who nothing hurt withal hiss'd him in scorn:
+171   While we were interchanging thrusts and blows,
+172   Came more and more and fought on part and part,
+173   Till the prince came, who parted either part.
+174   LADY MONTAGUE
+175   O, where is Romeo? saw you him to-day?
+176   Right glad I am he was not at this fray.
+177   BENVOLIO
+178   Madam, an hour before the worshipp'd sun
+179   Peer'd forth the golden window of the east,
+180   A troubled mind drave me to walk abroad;
+181   Where, underneath the grove of sycamore
+182   That westward rooteth from the city's side,
+183   So early walking did I see your son:
+184   Towards him I made, but he was ware of me
+185   And stole into the covert of the wood:
+186   I, measuring his affections by my own,
+187   That most are busied when they're most alone,
+188   Pursued my humour not pursuing his,
+189   And gladly shunn'd who gladly fled from me.
+190   MONTAGUE
+191   Many a morning hath he there been seen,
+192   With tears augmenting the fresh morning dew.
+193   Adding to clouds more clouds with his deep sighs;
+194   But all so soon as the all-cheering sun
+195   Should in the furthest east begin to draw
+196   The shady curtains from Aurora's bed,
+197   Away from the light steals home my heavy son,
+198   And private in his chamber pens himself,
+199   Shuts up his windows, locks far daylight out
+200   And makes himself an artificial night:
+201   Black and portentous must this humour prove,
+202   Unless good counsel may the cause remove.
+203   BENVOLIO
+204   My noble uncle, do you know the cause?
+205   MONTAGUE
+206   I neither know it nor can learn of him.
+207   BENVOLIO
+208   Have you importuned him by any means?
+209   MONTAGUE
+210   Both by myself and many other friends:
+211   But he, his own affections' counsellor,
+212   Is to himself--I will not say how true--
+213   But to himself so secret and so close,
+214   So far from sounding and discovery,
+215   As is the bud bit with an envious worm,
+216   Ere he can spread his sweet leaves to the air,
+217   Or dedicate his beauty to the sun.
+218   Could we but learn from whence his sorrows grow.
+219   We would as willingly give cure as know.
+220   Enter ROMEO
+
+221   BENVOLIO
+222   See, where he comes: so please you, step aside;
+223   I'll know his grievance, or be much denied.
+224   MONTAGUE
+225   I would thou wert so happy by thy stay,
+226   To hear true shrift. Come, madam, let's away.
+227   Exeunt MONTAGUE and LADY MONTAGUE
+
+228   BENVOLIO
+229   Good-morrow, cousin.
+230   ROMEO
+231   Is the day so young?
+232   BENVOLIO
+233   But new struck nine.
+234   ROMEO
+235   Ay me! sad hours seem long.
+236   Was that my father that went hence so fast?
+237   BENVOLIO
+238   It was. What sadness lengthens Romeo's hours?
+239   ROMEO
+240   Not having that, which, having, makes them short.
+241   BENVOLIO
+242   In love?
+243   ROMEO
+244   Out--
+245   BENVOLIO
+246   Of love?
+247   ROMEO
+248   Out of her favour, where I am in love.
+249   BENVOLIO
+250   Alas, that love, so gentle in his view,
+251   Should be so tyrannous and rough in proof!
+252   ROMEO
+253   Alas, that love, whose view is muffled still,
+254   Should, without eyes, see pathways to his will!
+255   Where shall we dine? O me! What fray was here?
+256   Yet tell me not, for I have heard it all.
+257   Here's much to do with hate, but more with love.
+258   Why, then, O brawling love! O loving hate!
+259   O any thing, of nothing first create!
+260   O heavy lightness! serious vanity!
+261   Mis-shapen chaos of well-seeming forms!
+262   Feather of lead, bright smoke, cold fire,
+263   sick health!
+264   Still-waking sleep, that is not what it is!
+265   This love feel I, that feel no love in this.
+266   Dost thou not laugh?
+267   BENVOLIO
+268   No, coz, I rather weep.
+269   ROMEO
+270   Good heart, at what?
+271   BENVOLIO
+272   At thy good heart's oppression.
+273   ROMEO
+274   Why, such is love's transgression.
+275   Griefs of mine own lie heavy in my breast,
+276   Which thou wilt propagate, to have it prest
+277   With more of thine: this love that thou hast shown
+278   Doth add more grief to too much of mine own.
+279   Love is a smoke raised with the fume of sighs;
+280   Being purged, a fire sparkling in lovers' eyes;
+281   Being vex'd a sea nourish'd with lovers' tears:
+282   What is it else? a madness most discreet,
+283   A choking gall and a preserving sweet.
+284   Farewell, my coz.
+285   BENVOLIO
+286   Soft! I will go along;
+287   An if you leave me so, you do me wrong.
+288   ROMEO
+289   Tut, I have lost myself; I am not here;
+290   This is not Romeo, he's some other where.
+291   BENVOLIO
+292   Tell me in sadness, who is that you love.
+293   ROMEO
+294   What, shall I groan and tell thee?
+295   BENVOLIO
+296   Groan! why, no.
+297   But sadly tell me who.
+298   ROMEO
+299   Bid a sick man in sadness make his will:
+300   Ah, word ill urged to one that is so ill!
+301   In sadness, cousin, I do love a woman.
+302   BENVOLIO
+303   I aim'd so near, when I supposed you loved.
+304   ROMEO
+305   A right good mark-man! And she's fair I love.
+306   BENVOLIO
+307   A right fair mark, fair coz, is soonest hit.
+308   ROMEO
+309   Well, in that hit you miss: she'll not be hit
+310   With Cupid's arrow; she hath Dian's wit;
+311   And, in strong proof of chastity well arm'd,
+312   From love's weak childish bow she lives unharm'd.
+313   She will not stay the siege of loving terms,
+314   Nor bide the encounter of assailing eyes,
+315   Nor ope her lap to saint-seducing gold:
+316   O, she is rich in beauty, only poor,
+317   That when she dies with beauty dies her store.
+318   BENVOLIO
+319   Then she hath sworn that she will still live chaste?
+320   ROMEO
+321   She hath, and in that sparing makes huge waste,
+322   For beauty starved with her severity
+323   Cuts beauty off from all posterity.
+324   She is too fair, too wise, wisely too fair,
+325   To merit bliss by making me despair:
+326   She hath forsworn to love, and in that vow
+327   Do I live dead that live to tell it now.
+328   BENVOLIO
+329   Be ruled by me, forget to think of her.
+330   ROMEO
+331   O, teach me how I should forget to think.
+332   BENVOLIO
+333   By giving liberty unto thine eyes;
+334   Examine other beauties.
+335   ROMEO
+336   'Tis the way
+337   To call hers exquisite, in question more:
+338   These happy masks that kiss fair ladies' brows
+339   Being black put us in mind they hide the fair;
+340   He that is strucken blind cannot forget
+341   The precious treasure of his eyesight lost:
+342   Show me a mistress that is passing fair,
+343   What doth her beauty serve, but as a note
+344   Where I may read who pass'd that passing fair?
+345   Farewell: thou canst not teach me to forget.
+346   BENVOLIO
+347   I'll pay that doctrine, or else die in debt.
+348   Exeunt
