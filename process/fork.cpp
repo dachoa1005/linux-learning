@@ -22,11 +22,12 @@ int main(){
         // cout << getpid() << endl;
     } else {
         // cout << "================" << endl;
-        kill(pid,SIGTERM);
+        // kill(pid,SIGTERM);
         cout << "I'm child" << endl;
         // out_file << "child" <<endl;
         cout << pid << endl;
         // cout << getpid() << endl;
-
+        // system()
+        system("ps -eo pid | wc -l");
     }
 }

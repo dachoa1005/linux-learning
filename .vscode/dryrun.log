@@ -1,6 +1,7 @@
 make --dry-run --always-make --keep-going --print-directory
 make: Entering directory '/home/dachoa1005/Desktop/C++/week3'
-make: Leaving directory '/home/dachoa1005/Desktop/C++/week3'
  
 make: *** No targets specified and no makefile found.  Stop.
 
+make: Leaving directory '/home/dachoa1005/Desktop/C++/week3'
+ 
