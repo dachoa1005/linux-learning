@@ -73,7 +73,7 @@ int main(int argc, char *argv[])
       //read data from socket 
       n = read(newsockfd,recvbuff,255);    //block den khi co du lieu tu client gui toi
       if (n < 0) cerr << "ERROR reading from socket" << endl;
-      
+         
          printf("Message from client: %s\n",recvbuff);
      
       //write data via socket
