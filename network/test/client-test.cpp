@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
        fprintf(stderr,"usage %s hostname port\n", argv[0]);
        exit(0);
     }
-    portno = atoi(argv[2]); //Chuyen cong dich vu thanh so nguyen
+    portno = atoi(argv[2]); //Chuyen portno thanh so nguyen
    
    //Tao socket
     sockfd = socket(AF_INET, SOCK_STREAM, 0);
