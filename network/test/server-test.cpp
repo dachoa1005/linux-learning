@@ -75,7 +75,7 @@ int main(int argc, char *argv[])
       if (n < 0) cerr << "ERROR reading from socket" << endl;
          
          printf("Message from client: %s\n",recvbuff);
-     
+         
       //write data via socket
       strcpy(sendbuff, "Server has got message\n");
       n = write(newsockfd,sendbuff,sizeof(sendbuff));
