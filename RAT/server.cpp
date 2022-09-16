@@ -73,23 +73,29 @@ int main(int argc, const char **argv)
     cout << "Connected to Client" << endl;
     char msg[1024];
     //  Sau khi connect thành công, bắt đầu giao tiếp
+    recv(newSockDes, (char *)&msg, sizeof(msg), 0);
+         cout << "Client: " << msg << endl;
+        // cout << msg << endl;
+        memset(&msg, 0, sizeof(msg));
+
+        //  cout << msg << endl;
     while (1)
     {
         // recive message from client by recv()
-        recv(newSockDes, (char *)&msg, sizeof(msg), 0);
-        cout << "Client: " << msg << endl;
-        if ((string(msg)) == "exit")
-        {
-            cout << "Client quit the session" << endl;
-            break;
-        }
-        memset(&msg, 0, sizeof(msg));
+        // if ((string(msg)) == "exit")
+        // {
+        //     cout << "Client quit the session" << endl;
+        //     break;
+        // }
+        // memset(&msg, 0, sizeof(msg));
         //----------------------------------
 
         // send message to client-----------
         string data;
         cout << "Server: ";
         getline(cin, data);
+
+        // dùng message để gửi tin nhắn cho client
         strcpy(msg, data.c_str());
         send(newSockDes, (char *)&msg, strlen(msg), 0);
         if (data == "exit")

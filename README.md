@@ -1,2 +1,1 @@
-# linux
-test
+“Don’t Kill the Magic”, the debut album from MAGIC!, Available Now on iTunes: http://smarturl.it/DKTMiTunes?IQid=yt  Follow Magic! Website http://www.ournameismagic.com  Facebook https://www.facebook.com/ournameisMAGIC Twitter https://twitter.com/ournameismagic Instagram http://instagram.com/ournameismagic  Music video by MAGIC! performing Rude. (C) 2013 Sony Music Entertainment International Limited

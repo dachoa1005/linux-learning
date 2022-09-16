@@ -12,6 +12,7 @@
 #include <arpa/inet.h>
 #include <fstream>
 #include <netdb.h>
+#include <fstream>
 
 using namespace std;
 
@@ -48,24 +49,40 @@ int main(int argc, char const *argv[])
 
     // Sau khi connect thành công, bắt đầu giao tiếp
     char msg[1024];
+
+    ifstream read_file("/home/dachoa1005/Desktop/linux/README.md");
+    
+    string data;
+    while(getline(read_file,data)){
+            cout << data << endl;
+            strcpy(msg,data.c_str());
+            send(clientSockfd,&msg,strlen(msg),0);
+        }
+        memset(&msg, 0, sizeof(msg));
+
     while (1)
     {
-        cout << "Client: ";
-        string data;
         // send messgage to server----------------
-        getline(cin, data);
-        strcpy(msg,data.c_str());
-        send(clientSockfd,&msg,strlen(msg),0);
-        if (data == "exit"){
-            cout << "Client quit the session" <<endl;
-            break;
-        }
-        memset(&msg,0,sizeof(msg)); //clear buffer
+        // cout << "Client: ";
+        // string data;
+        
+        // getline(cin, data);
+        // strcpy(msg,data.c_str());
+        // send(clientSockfd,&msg,strlen(msg),0);
+        // if (data == "exit"){
+        //     cout << "Client quit the session" <<endl;
+        //     break;
+        // }
+        // memset(&msg,0,sizeof(msg)); //clear buffer
+        
+        
+        
         //----------------------------------------
+        
         // receive message from server------------
         recv(clientSockfd,(char *)&msg,sizeof(msg),0);
         cout << "Server: " << msg << endl;
-        if ((string)msg=="exit"){
+        if ((string)msg=="exit"||(string)msg == ""){
             cout << "Server quit the session" << endl;
             break;
         }
@@ -73,6 +90,6 @@ int main(int argc, char const *argv[])
         //----------------------------------------
     }
     close(clientSockfd);    
-
+    read_file.close();
     return 0;
 }
