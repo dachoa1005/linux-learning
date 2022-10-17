@@ -52,13 +52,13 @@ int main(int argc, char const *argv[])
 
     ifstream read_file("/home/dachoa1005/Desktop/linux/README.md");
     
-    string data;
-    while(getline(read_file,data)){
-            cout << data << endl;
-            strcpy(msg,data.c_str());
-            send(clientSockfd,&msg,strlen(msg),0);
-        }
-        memset(&msg, 0, sizeof(msg));
+    // string data;
+    // while(getline(read_file,data)){
+    //         cout << data << endl;
+    //         strcpy(msg,data.c_str());
+    //         send(clientSockfd,&msg,strlen(msg),0);
+    //     }
+    //     memset(&msg, 0, sizeof(msg));
 
     while (1)
     {

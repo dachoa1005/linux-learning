@@ -73,12 +73,13 @@ int main(int argc, const char **argv)
     cout << "Connected to Client" << endl;
     char msg[1024];
     //  Sau khi connect thành công, bắt đầu giao tiếp
-    recv(newSockDes, (char *)&msg, sizeof(msg), 0);
-         cout << "Client: " << msg << endl;
-        // cout << msg << endl;
-        memset(&msg, 0, sizeof(msg));
+    // recv(newSockDes, (char *)&msg, sizeof(msg), 0);
+    // cout << "Client: " << msg << endl;
+    // cout << msg << endl;
+    // memset(&msg, 0, sizeof(msg));
 
-        //  cout << msg << endl;
+    //  cout << msg << endl;
+    int choice;
     while (1)
     {
         // recive message from client by recv()
@@ -92,19 +93,54 @@ int main(int argc, const char **argv)
 
         // send message to client-----------
         string data;
-        cout << "Server: ";
-        getline(cin, data);
+        cout << "Menu: " << endl;
+        cout << "1. Get file" << endl;
+        cout << "2. Put file" << endl;
+        cout << "3. Kill process" << endl;
+        cout << "4. Exit" << endl;
 
-        // dùng message để gửi tin nhắn cho client
-        strcpy(msg, data.c_str());
-        send(newSockDes, (char *)&msg, strlen(msg), 0);
-        if (data == "exit")
+        while (1)
         {
+            cout << "Enter your choice: ";
+            cin >> choice;
+            if (choice < 1 || choice > 4)
+            {
+                cout << "Invalid choice" << endl;
+            }
+            else
+            {
+                break;
+            }
+        }
+
+        switch (choice)
+        {
+        case 1:
+            getline(cin, data);
+
+            // dùng message để gửi tin nhắn cho client
+            strcpy(msg, data.c_str());
+            send(newSockDes, (char *)&msg, strlen(msg), 0);
+            memset(&msg, 0, sizeof(msg));
+            //----------------------------------
+            break;
+
+        case 2:
+            break;
+
+        case 3:
+            break;
+
+        case 4:
+            send(newSockDes, (char *)&"exit", strlen("exit"), 0);
             cout << "Server quit the session" << endl;
+            close(newSockDes);
+            close(servSockfd);
+            exit(0);
+
+        default:
             break;
         }
-        memset(&msg, 0, sizeof(msg));
-        //----------------------------------
     }
     close(newSockDes);
     close(servSockfd);
